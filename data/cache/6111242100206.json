@@ -1,0 +1,14 @@
+{
+    "nom": "Le nature",
+    "categories": "Yaourts au lait de vache nature",
+    "ingredients": "lait frais entier, poudre de lait écrémé, amidon, ferment lactique sélectionné",
+    "energie_kcal": 78.5,
+    "graisses_g": 3.3,
+    "sucres_g": 0,
+    "proteines_g": 4.2,
+    "sel_g": 0,
+    "nutriscore": "B",
+    "nova": 3,
+    "ecoscore": "B",
+    "source": "Open Food Facts"
+}

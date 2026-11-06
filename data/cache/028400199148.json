@@ -1,0 +1,14 @@
+{
+    "nom": "Classic",
+    "categories": "Potato crisps",
+    "ingredients": "POTATOES, VEGETABLE OIL (CANOLA, CORN, SOYBEAN AND/OR SUNFLOWER OIL), AND SALT",
+    "energie_kcal": 571.428571428572,
+    "graisses_g": 35.7142857142857,
+    "sucres_g": 3.57142857142857,
+    "proteines_g": 7.14285714285714,
+    "sel_g": 1.25,
+    "nutriscore": "D",
+    "nova": 3,
+    "ecoscore": "B",
+    "source": "Open Food Facts"
+}

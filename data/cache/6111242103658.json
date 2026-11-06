@@ -1,0 +1,14 @@
+{
+    "nom": "Jutos Orange",
+    "categories": "Jus de fruits, Boissons plates aux fruits, Boissons avec sucre ajouté",
+    "ingredients": "eau, jus de pulpe d'orange, sucre, acide citrique, vitamine C, arômes, colorant naturel.",
+    "energie_kcal": 43,
+    "graisses_g": 0,
+    "sucres_g": 8,
+    "proteines_g": 0,
+    "sel_g": 0.0025,
+    "nutriscore": "D",
+    "nova": 4,
+    "ecoscore": "B",
+    "source": "Open Food Facts"
+}

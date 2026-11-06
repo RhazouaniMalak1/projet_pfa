@@ -1,0 +1,14 @@
+{
+    "nom": "Bière sans alcool",
+    "categories": "Bières, Boissons sans sucre ajouté, Bières sans alcool",
+    "ingredients": "eau, malt d'_orge_, arôme naturel, extraits de houblon",
+    "energie_kcal": 21,
+    "graisses_g": 0,
+    "sucres_g": 1.3,
+    "proteines_g": 0,
+    "sel_g": 0.01,
+    "nutriscore": "NOT-APPLICABLE",
+    "nova": 4,
+    "ecoscore": "D",
+    "source": "Open Food Facts"
+}

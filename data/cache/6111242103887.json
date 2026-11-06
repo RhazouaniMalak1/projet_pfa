@@ -1,0 +1,14 @@
+{
+    "nom": "Raibi",
+    "categories": "Yaourts à boire",
+    "ingredients": "Lait, matière grasse, sucre, condensat : amidon, arôme coloré, levure de lait",
+    "energie_kcal": 76,
+    "graisses_g": 1.4,
+    "sucres_g": "inconnu",
+    "proteines_g": 2.3,
+    "sel_g": "inconnu",
+    "nutriscore": "UNKNOWN",
+    "nova": 3,
+    "ecoscore": "E",
+    "source": "Open Food Facts"
+}

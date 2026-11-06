@@ -1,0 +1,12 @@
+{
+    "nom": "Prince",
+    "categories": "",
+    "ingredients": "Céréale 50 % (Farine de blé 34,8 %, farine de blé complet 15,2 %), sucre, huiles végétales (palme, colza), cacao maigre en poudre 4,5 %, sirop de glucose, amidon de blé, poudres à lever (carbonates d'ammonium, carbonates de sodium), émulsifiant (lécithines de soja), sel, lait écrémé en poudre, perméat de lactosérum (de lait), arômes. Peut contenir œuf.",
+    "energie_kcal": 467,
+    "graisses_g": 17,
+    "sucres_g": 32,
+    "proteines_g": 6.3,
+    "sel_g": 0.49,
+    "nutriscore": "E",
+    "source": "Open Food Facts"
+}
